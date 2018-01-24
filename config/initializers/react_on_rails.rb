@@ -38,4 +38,5 @@ ReactOnRails.configure do |config|
   # React components.
   #
   config.server_bundle_js_file = "hello-world-bundle.js"
+  config.server_bundle_js_file = "Forecast-bundle.js"
 end
